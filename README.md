@@ -1,13 +1,13 @@
 # DeepL Go Library
 
-This is an **unofficial** client library and command line interface for the
-[DeepL API][api-docs].
+Since the author is no longer maintaining [deepl-go](https://github.com/cluttrdev/deepl-go), 
+I would like to take over its development.
 
 ## Getting an authentication ley
 
 To use the DeepL Go Library, you'll need an API authentication key. To get a
 key, [please create an account here][create-account]. With a DeepL API Free
-account you can translate up to 500,000 characters/month for free.
+account you can translate up to 1,000,000 characters/month for free.
 
 ## Library
 
